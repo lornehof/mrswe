@@ -1,0 +1,14 @@
+// File lists parameters for shear wave velocity calculation
+// Relative path to MR data
+./recon_data/liver_post_ablation.mat
+// Upper shear wave velocity detection limit [m/s]
+3.5
+// Density of sample (rho) [kg/m^3]
+1000
+// gaussian filter parameters for detecting spatial location of FUS impulse (filter length [pixels]; filter width [sigma in pixels])
+90
+4
+// Number shear wavefronts to detect
+2
+// Which Slice Index - Add multiple slices if wishing to construct shear wave maps over multiple slices. For manuscript used slices 5 6 7 8
+6

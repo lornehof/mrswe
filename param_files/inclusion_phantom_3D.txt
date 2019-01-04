@@ -1,0 +1,14 @@
+// File lists parameters for shear wave velocity calculation
+// Relative path to MR data
+./recon_data/inclusion_phantom_3D.mat
+// Upper shear wave velocity detection limit [m/s]
+4.5
+// Density of sample (rho) [kg/m^3]
+1000
+// gaussian filter parameters for detecting spatial location of FUS impulse (filter length [pixels]; wilter width [sigma in pixels])
+15
+2.5
+// Number shear wavefronts to detect
+3
+// Which Slice Index - Add multiple slices if wishing to construct shear wave maps over multiple slices
+6
