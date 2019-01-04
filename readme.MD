@@ -4,7 +4,7 @@
 
 This repository contains code and data used to reconstruct shear wave speed elastography measurements presented in the manuscript titled **_Efficient shear wave elastography using transient acoustic radiation force excitations and magnetic resonance displacement encoding._** Manuscript was published in Magnetic Resonance in Medicine and can be found here: https://doi.org/10.1002/mrm.27647 
 
-A brief description with animations of the method can be found here https://git.io/mrswe
+A brief description with animations of the MRSWE method can be found here https://lornehof.github.io/mrswe/
 
 Algorithm was implemented in Matlab Version 2017b. Code has been tested on macOS Version 10.13.6. 
 
